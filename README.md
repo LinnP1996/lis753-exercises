@@ -1,1 +1,2 @@
-# lis753-exercises
+# LIS EXERCISE
+Philip Linninger
