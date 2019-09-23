@@ -1,7 +1,12 @@
 body {
   background-color: #8E5572;
+  font-family: arial, sans-serif; 
 }
 
 h1, h2 {
   color: #C2B97F;
+}
+
+a {
+  color: #59C3C3;
 }
