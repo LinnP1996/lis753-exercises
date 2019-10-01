@@ -1,6 +1,6 @@
 body {
   background-color: #8E5572;
-  font-family: arial, sans-serif; 
+  font-family: arial, sans-serif;
 }
 
 h1, h2 {
@@ -9,4 +9,9 @@ h1, h2 {
 
 a {
   color: #59C3C3;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
